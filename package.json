@@ -1,0 +1,25 @@
+{
+  "name": "imoocLearn",
+  "version": "1.0.0",
+  "description": "慕课网学习资料",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsLearn:build": "vuepress build tsLearn",
+    "tsLearn:dev": "vuepress dev tsLearn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brightLian/imoocLearn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brightLian/imoocLearn/issues"
+  },
+  "homepage": "https://github.com/brightLian/imoocLearn#readme",
+  "devDependencies": {
+    "vuepress": "^1.5.0"
+  }
+}
