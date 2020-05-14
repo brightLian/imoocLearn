@@ -2,6 +2,9 @@ module.exports = {
     title: 'TypeScript学习',  // 设置网站标题
     description : 'TypeScript －系统入门到项目实战',
     themeConfig: {
+        head: [
+            ['link', { rel: 'icon', href: 'icon/favicon.png' }]
+        ],
         logo: '/image/banner.png',
         nav: [
             { text: '首页', link: '/' },
@@ -15,7 +18,7 @@ module.exports = {
             {
                 title: '第1章 课程导学',   // 标题：必要的
                 path: '/chapterFirst/first',      // 可选的, 标题的跳转链接，应为绝对路径且必须存在
-                collapsable: true, // 展开侧边栏： 可选的, 默认值是 true,
+                collapsable: false, // 展开侧边栏： 可选的, 默认值是 true,
                 sidebarDepth: 2,    // 侧边栏深度：可选的, 默认值是 1
                 children: [
                     '/chapterFirst/first.md',
@@ -24,7 +27,7 @@ module.exports = {
             {
                 title: '第2章 TypeScript基础语法入门',
                 path: '/chapterSecond/first',
-                collapsable: true,
+                collapsable: false,
                 sidebarDepth: 2,
                 children: [
                     '/chapterSecond/first.md',
@@ -47,7 +50,7 @@ module.exports = {
             {
                 title: '第3章 使用 TypeScript 编写爬虫工具',
                 path: '/chapterThird/first',
-                collapsable: true,
+                collapsable: false,
                 sidebarDepth: 2,
                 children: [
                     '/chapterThird/first.md',
@@ -62,7 +65,7 @@ module.exports = {
             {
                 title: '第4章 TypeScript 语法进阶',
                 path: '/chapterFourth/first',
-                collapsable: true,
+                collapsable: false,
                 sidebarDepth: 2,
                 children: [
                     '/chapterFourth/first.md',
@@ -84,7 +87,7 @@ module.exports = {
             {
                 title: '第5章 使用 Express 框架开发数据爬取及展示接口',
                 path: '/chapterFifth/first',
-                collapsable: true,
+                collapsable: false,
                 sidebarDepth: 2,
                 children: [
                     '/chapterFifth/first.md',
@@ -97,7 +100,7 @@ module.exports = {
             {
                 title: '第6章 TypeScript 高级语法',
                 path: '/chapterSixth/first',
-                collapsable: true,
+                collapsable: false,
                 sidebarDepth: 2,
                 children: [
                     '/chapterSixth/first.md',
@@ -114,7 +117,7 @@ module.exports = {
             {
                 title: '第7章 Express 项目代码改良',
                 path: '/chapterSeventh/first',
-                collapsable: true,
+                collapsable: false,
                 sidebarDepth: 2,
                 children: [
                     '/chapterSeventh/first.md',
@@ -128,7 +131,7 @@ module.exports = {
             {
                 title: '第8章 使用 React 编写爬取数据的展示页面',
                 path: '/chapterEighth/first',
-                collapsable: true,
+                collapsable: false,
                 sidebarDepth: 2,
                 children: [
                     '/chapterEighth/first.md',
@@ -145,7 +148,7 @@ module.exports = {
             {
                 title: '第9章 课程总结',
                 path: '/chapterNinth/first',
-                collapsable: true,
+                collapsable: false,
                 sidebarDepth: 2,
                 children: [
                     '/chapterNinth/first.md',

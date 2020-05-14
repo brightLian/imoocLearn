@@ -3,7 +3,7 @@ home: true
 heroImage: /image/banner.png
 heroText: TypeScrpit
 tagline: JavaScript的超集
-actionText: 快速上手 →
+actionText: 开始学习 →
 actionLink: chapterFirst/first
 features:
 - title: JavaScript超集
