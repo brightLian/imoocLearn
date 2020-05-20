@@ -12,5 +12,5 @@ features:
   details: 它可以编译成纯的JavaScript语言进行运行。
 - title: 开源
   details: TypeScript可以在任何浏览器、任何计算机和任何操作系统上运行，并且是开源的。
-footer: MIT Licensed | Copyright © 2018-present Evan You
+footer: MIT Licensed | Copyright © 2020 brightLian
 ---
