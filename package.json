@@ -6,7 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "tsLearn:build": "vuepress build tsLearn",
-    "tsLearn:dev": "vuepress dev tsLearn"
+    "tsLearn:dev": "vuepress dev tsLearn",
+    "jsInterview:build": "vuepress build jsInterview",
+    "jsInterview:dev": "vuepress dev jsInterview"
   },
   "repository": {
     "type": "git",

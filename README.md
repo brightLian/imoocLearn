@@ -3,4 +3,5 @@
 | 目录          | 对应链接     |   启动方式              |
 |:-------------:|:-------------:|:----------------------:|
 | TypeScript－系统入门到项目实战 | https://coding.imooc.com/class/412.html | npm run tsLearn:dev |
+| 前端JavaScript面试 | https://coding.imooc.com/class/400.html | npm run jsInterview:dev |
 
