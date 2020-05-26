@@ -4,3 +4,4 @@
 .vuepress/dist/*
 /tsLearn/.vuepress/dist/*
 /jsInterview/.vuepress/dist/*
+/webSecurity/.vuepress/dist/*

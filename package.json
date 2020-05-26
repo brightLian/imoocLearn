@@ -8,7 +8,9 @@
     "tsLearn:build": "vuepress build tsLearn",
     "tsLearn:dev": "vuepress dev tsLearn",
     "jsInterview:build": "vuepress build jsInterview",
-    "jsInterview:dev": "vuepress dev jsInterview"
+    "jsInterview:dev": "vuepress dev jsInterview",
+    "webSecurity:build": "vuepress build webSecurity",
+    "webSecurity:dev": "vuepress dev webSecurity"
   },
   "repository": {
     "type": "git",
