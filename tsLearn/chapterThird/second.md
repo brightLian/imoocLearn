@@ -1,8 +1,8 @@
 # 3-2 使用SuperAgent和类型定义文件获取页面内容
-## 初始化ts配置文件
+### 初始化ts配置文件
 使用 tsc --init 命令进行初始化。
 
-## superAgent
+### superAgent
 superAgent 的作用：使用 superAgent 可以允许我们在 node 里面发送 ajax 请求。   
 当使用 ts 文件直接去引入 js 文件的时候会报错，我们需要根据提示去安装对应的翻译文件。
 ::: danger
