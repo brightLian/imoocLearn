@@ -3,5 +3,6 @@
 .DS_Store
 .vuepress/dist/*
 /tsLearn/.vuepress/dist/*
+/tsLearn/demo/*
 /jsInterview/.vuepress/dist/*
 /webSecurity/.vuepress/dist/*
