@@ -10,7 +10,9 @@
     "jsInterview:build": "vuepress build jsInterview",
     "jsInterview:dev": "vuepress dev jsInterview",
     "webSecurity:build": "vuepress build webSecurity",
-    "webSecurity:dev": "vuepress dev webSecurity"
+    "webSecurity:dev": "vuepress dev webSecurity",
+    "ECMAScript6To11:build": "vuepress build ECMAScript6To11",
+    "ECMAScript6To11:dev": "vuepress dev ECMAScript6To11"
   },
   "repository": {
     "type": "git",
